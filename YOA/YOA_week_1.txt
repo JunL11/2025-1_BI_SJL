@@ -1,0 +1,6 @@
+The mouse let7 miRNA family consists of multiple members, such as let-7a, let-7b, let-7c, let-7d, let-7e, let-7f, let-7g, let-7i, and mir-98
+Even though these members are known to have conserved GGAG motif for LIN28A binding with exception of let-7c-2, 
+it seems that not all members are effected by LIN28 according to CLIP-seq data (Fig.1E).
+
+My goal of YOA assignment is to analyze whether site mutation occur in unshown let7 family members.
+CLIP sequence alignment of these members will be shown as Fig.S2, with further analysis if possible.
